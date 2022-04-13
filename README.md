@@ -36,14 +36,6 @@
 
  - In the dataset provided,there are three columns named 'casual', 'registered', and 'cnt'. The variable 'casual' indicates the number casual users who have made a rental. The variable 'registered' on the other hand shows the total number of registered users who have made a booking on a given day. Finally, the 'cnt' variable indicates the total number of bike rentals, including both casual and registered. The model should be built taking this 'cnt' as the target variable.
 
-## Libraries Used
-- Pandas
-- Numpy
-- Seaborn
-- Matplotlib
-- Scikit Learn
-- Statsmodels
-
 ## Data Dictionary
 
 - instant: record index
@@ -66,6 +58,14 @@
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
+
+## Libraries Used
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Scikit Learn
+- Statsmodels
 
 ## References
 * https://www.rmets.org/metmatters/beaufort-scale
@@ -117,14 +117,9 @@ autumn after which it reduces as Winter approaches.
 - mnth (few)
 - season (few)
 
-## Data Citation
-
-- The data for this project has been sourced from Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-- For further information about this dataset, please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
-
 
 ## Contact
-Created by [@ishankarve] - feel free to contact me!
+Created by [@mdraghav] - feel free to contact me!
 
 
 <!-- Optional -->
